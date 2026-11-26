@@ -74,3 +74,11 @@ Demo_Prestashop_Selenium_AutomationSuite - Java/
 │       └── selenium_tests.java                        TestNG full multi-product End-to-End guest shopping flow test
 └── README.md
 ```
+
+
+## full E2E Workflow
+
+https://github.com/user-attachments/assets/f00b7de7-97c6-4940-9bdc-e15129894305
+
+
+
